@@ -1,0 +1,31 @@
+img
+{
+    float: right;
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    border: 5px black solid; 
+}
+hr
+{
+    border-top: dotted black 5px;
+}
+.heads
+{
+    padding: 10px;
+    color: rgb(81, 168, 219);
+    font-size: 25px;
+    font-weight: bolder;
+}
+.profile_content
+{
+    font-size: large;
+}
+.exp_cont
+{
+    font-size: large;
+}
+.skill_cont
+{
+    font-size: large;
+}
